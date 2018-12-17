@@ -16,8 +16,8 @@ public class MapLooping {
 		jobMap.put("ScrumMaster", "Reston");
 		jobMap.put("ProductOwner", "Fairfax");
 		jobMap.put("ScrumMaster", "DC");
-jobMap.get("SDET");
-jobMap.
+		
+
 		Set<Entry<String, String>> entries = jobMap.entrySet();
 
 		for (Entry<String, String> each : entries) {

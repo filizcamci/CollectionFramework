@@ -2,7 +2,7 @@ package Beginning;
 import java.util.Iterator;
 import java.util.PriorityQueue;
 
-import org.apache.http.impl.io.SocketOutputBuffer;
+//import org.apache.http.impl.io.SocketOutputBuffer;
 
 public class PriorityQueueClassExample {
 	public static void main(String[] args) {
